@@ -1,2 +1,1 @@
-# UserManual
-CollectiveAccess User Manual
+=== CollectiveAccess User Manual ===
